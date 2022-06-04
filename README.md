@@ -19,7 +19,7 @@ HOST_DATABASE=localhost
 NAME_DATABASE=todo
 ```
 
-Then, you install the requirements.
+Then, install the requirements.
 
 ```
 pip install -r requirements.txt
